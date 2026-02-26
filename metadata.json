@@ -1,0 +1,5 @@
+{
+  "name": "Rental Manager Pro",
+  "description": "A dashboard application for managing property rentals, client bookings, and finances outside of Airbnb.",
+  "requestFramePermissions": []
+}
